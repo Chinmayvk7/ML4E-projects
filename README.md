@@ -10,25 +10,25 @@ It focuses on understanding the mathematical foundations of regression, performa
 
 Data Loading and Exploration:
 
-Reading CSV data with pandas
+  -Reading CSV data with pandas
 
-Understanding dataset structure using .info(), .describe(), and visual analysis with matplotlib
+  -Understanding dataset structure using .info(), .describe(), and visual analysis with matplotlib
 
 Data Preprocessing:
 
-Handling missing values
+  -Handling missing values
 
-Feature-target separation (X and y)
+  -Feature-target separation (X and y)
 
-Splitting data into training and testing sets (80/20 ratio)
+  -Splitting data into training and testing sets (80/20 ratio)
 
 Linear Regression (From Scratch):
 
-Adding an intercept column
+  -Adding an intercept column
 
-Computing model coefficients using the Normal Equation
+  -Computing model coefficients using the Normal Equation
 
-Making predictions on training and testing data
+  -Making predictions on training and testing data
 
 Error Metrics & Evaluation:
 
