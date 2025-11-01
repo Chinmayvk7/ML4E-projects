@@ -2,7 +2,9 @@
 
 📘 Project Overview
 
-This project implements Linear Regression from scratch using the Boston Housing dataset to predict the median value of owner-occupied homes (MEDV) based on various socio-economic and geographic factors.
+This project implements Linear Regression from scratch using the Boston Housing dataset
+
+to predict the median value of owner-occupied homes (MEDV) based on various socio-economic and geographic factors.
 
 It focuses on understanding the mathematical foundations of regression, performance evaluation, and practical data preprocessing techniques.
 
@@ -10,9 +12,9 @@ It focuses on understanding the mathematical foundations of regression, performa
 
 Data Loading and Exploration:
 
-  -Reading CSV data with pandas
+-Reading CSV data with pandas
 
-  -Understanding dataset structure using .info(), .describe(), and visual analysis with matplotlib
+-Understanding dataset structure using .info(), .describe(), and visual analysis with matplotlib
 
 Data Preprocessing:
 
