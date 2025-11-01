@@ -12,47 +12,47 @@ It focuses on understanding the mathematical foundations of regression, performa
 
 Data Loading and Exploration:
 
-•Reading CSV data with pandas
+• Reading CSV data with pandas
 
--Understanding dataset structure using .info(), .describe(), and visual analysis with matplotlib
+• Understanding dataset structure using .info(), .describe(), and visual analysis with matplotlib
 
 Data Preprocessing:
 
--Handling missing values
+• Handling missing values
 
--Feature-target separation (X and y)
+• Feature-target separation (X and y)
 
--Splitting data into training and testing sets (80/20 ratio)
+• Splitting data into training and testing sets (80/20 ratio)
 
 Linear Regression (From Scratch):
 
--Adding an intercept column
+• Adding an intercept column
 
--Computing model coefficients using the Normal Equation
+• Computing model coefficients using the Normal Equation
 
--Making predictions on training and testing data
+• Making predictions on training and testing data
 
 Error Metrics & Evaluation:
 
--MSE (Mean Squared Error)
+• MSE (Mean Squared Error)
 
--RMSE (Root Mean Squared Error)
+• RMSE (Root Mean Squared Error)
 
--MAE (Mean Absolute Error)
+• MAE (Mean Absolute Error)
 
--R² Score (Coefficient of Determination)
+• R² Score (Coefficient of Determination)
 
 Model Interpretation:
 
--Understanding how each feature affects the target variable (MEDV)
+• Understanding how each feature affects the target variable (MEDV)
 
--Exploring correlation through scatter plots (LSTAT vs MEDV)
+• Exploring correlation through scatter plots (LSTAT vs MEDV)
 
--Function Implementation:
+• Function Implementation:
 
 Writing a reusable prediction function:
 
--Includes input scaling using mean and standard deviation of training data for realistic predictions.
+• Includes input scaling using mean and standard deviation of training data for realistic predictions.
 
 📊 Results Summary
 
