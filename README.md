@@ -12,7 +12,7 @@ It focuses on understanding the mathematical foundations of regression, performa
 
 Data Loading and Exploration:
 
--Reading CSV data with pandas
+•Reading CSV data with pandas
 
 -Understanding dataset structure using .info(), .describe(), and visual analysis with matplotlib
 
